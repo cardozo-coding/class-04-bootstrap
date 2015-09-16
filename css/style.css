@@ -1,0 +1,39 @@
+body{
+  background-color: #fffff8;
+  color: #111;
+  font-family: 'News Cycle', sans-serif;
+  margin:0;
+}
+h1{
+  color: steelblue;
+  text-align: center;
+}
+h3{
+  display: inline-block;
+}
+h4{
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: steelblue;
+}
+a:hover{
+  text-decoration: underline;
+}
+p{
+  padding: 0 20px; 
+}
+.book{
+  font-variant: small-caps;
+}
+
+.content{
+  display: none;
+}
+
+#image-text{
+  text-decoration: none;
+  font-size: 2em;
+}
+
