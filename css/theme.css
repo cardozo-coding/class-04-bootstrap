@@ -1,4 +1,4 @@
- /* 
+ /*
  * Modifed theme based on: Kelvin - Free Bootstrap 3 Resume Theme
  * Author: Carlos Alvarez
  * Version: 1.0
@@ -152,7 +152,7 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-  background: url(../images/header-bg.jpg) no-repeat center top;
+  background: url(../images/header.jpg) no-repeat center top;
   margin-top: 60px;
   padding-top:140px;
   text-align:center;
@@ -160,7 +160,7 @@ a:after {
   background-position: center center;
   min-height: 500px;
   width: 100%;
-  
+
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -189,7 +189,7 @@ a:after {
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
-} 
+}
 
 #intro h5, p {
   color: white;
