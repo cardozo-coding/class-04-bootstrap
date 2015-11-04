@@ -1,8 +1,8 @@
-# Cardozo Coding Front-End Class 3
+# Cardozo Coding Front-End Class 4
 
 ## Objectives
 
-Learn about Bootstrap and apply a Bootstrap theme. Finish personal website.
+Finish personal website and host it live on Github. 
 
 ## Process
 - Download all the files on this page using the [Download ZIP](https://github.com/cardozo-coding/class-04-bootstrap/archive/master.zip) link on the right -->
